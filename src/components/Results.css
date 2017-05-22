@@ -1,0 +1,55 @@
+.routes {
+	background-color: 	;
+	border-radius: 5px;
+	padding-bottom: 1px;
+}
+
+.steps-container {
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+}
+.steps {
+	cursor: pointer;
+	padding: 10px;
+	border-bottom: 1px solid rgba(128, 128, 128, 0.35);
+}
+
+.last-child {
+	border-bottom: none;
+}
+
+.walkstep {
+	padding: 20px 0 0 0;
+}
+.walkstep span:first-child {
+    font-size: 12px;
+    font-weight: bold;
+    color: rgba(128, 128, 128, 0.72);
+}
+
+.walkstep span {
+	font-size: 11px;
+	color: rgba(128, 128, 128, 0.72);
+}
+
+.bullet {
+    margin: 5px;
+}
+
+.label {
+    padding: 10px 0 0 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(128, 128, 128);
+}
+
+.ride {
+	margin: 10px 0;
+    font-size: 13px;
+    color: gray;
+}
+
+.ride span {
+	margin: 0 4px;
+}
